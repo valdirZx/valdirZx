@@ -94,6 +94,10 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
     </td>
+    <td valign="top" width="25%">
+      <strong> Other engines </strong><br/><br/>
+      <img src="https://img.shields.io/badge/Unity-100000?style=flat&logo=unity&logoColor=white" />
+    </td>
   </tr>
 </table>
 
