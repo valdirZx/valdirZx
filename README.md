@@ -6,7 +6,7 @@
 
 ![17 anos](https://img.shields.io/badge/17%20anos%20%2F%2017%20y.o.-blue?style=flat)
 ![Dev em formação](https://img.shields.io/badge/Dev%20em%20forma%C3%A7%C3%A3o%20%2F%20Dev%20in%20training-success?style=flat)
-![Gamer](https://img.shields.io/badge/Gamer-🎮-yellow?style=flat)
+
 
 ---
 
