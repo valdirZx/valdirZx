@@ -1,3 +1,5 @@
+<div align="center">
+
 # Olá, eu sou o Valdir 👋 · Hi, I'm Valdir 👋
 
 ---
@@ -10,7 +12,7 @@
 
 ## 🇧🇷 Sobre mim · 🇺🇸 About me
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       <strong>🇧🇷 Português</strong><br/><br/>
@@ -27,7 +29,7 @@
 
 ## 🎯 Interesses · Interests
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       <strong>🇧🇷 Interesses</strong>
@@ -54,7 +56,7 @@
 
 ## 🤝 Colaboração · Collaboration
 
-<table>
+<table width="100%">
   <tr>
     <td width="50%">
       <strong>🇧🇷 Português</strong><br/><br/>
@@ -71,24 +73,31 @@
 
 ## 🛠️ Tech Stack · Tecnologias
 
-**Frontend**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-**Database & Tools**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<table width="100%">
+  <tr>
+    <td valign="top" width="25%">
+      <strong>Frontend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" /><br/>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+    </td>
+    <td valign="top" width="25%">
+      <strong>Backend</strong><br/><br/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+    </td>
+    <td valign="top" width="25%">
+      <strong>Database & Tools</strong><br/><br/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 
 ![Snake animation](https://raw.githubusercontent.com/valdirZx/valdirZx/output/github-contribution-grid-snake-dark.svg)
+
+</div>
